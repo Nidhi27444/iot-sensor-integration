@@ -87,7 +87,7 @@ python unify_reader.py
 ```
 iot_sensor_project/
 ├── unify_reader.py
-├── sensor1.txt / .csv / .json / .xml
+├── Sensor1.txt/ Sensor2 .csv / Sensor3.json / Sensor4.xml
 
 
 iot_sensor_wokwi_Project/
