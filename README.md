@@ -88,14 +88,14 @@ python unify_reader.py
 iot_sensor_project/
 ├── unify_reader.py
 ├── sensor1.txt / .csv / .json / .xml
-├── README_WSL_Unified_Sensors.md
+
 
 iot_sensor_wokwi_Project/
 ├── main.py
 ├── sdcard.py
 ├── diagram.json
 ├── wokwi-project.txt
-├── README_Wokwi_ESP32.md
+
 ```
 
 ---
